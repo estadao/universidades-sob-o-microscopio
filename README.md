@@ -42,7 +42,7 @@ Mais informações estão disponíveis na página do [Lieden Ranking](https://ww
 
 A análise que a reportagem fez limita-se a “entrevistar” os dados para descobrir destaques nacionais no levantamento. Para complementar os dados brutos, foram feitas consultas à base de dados da Web of Science para identificar as pesquisas de maior repercussão e seus respectivos autores.
 
-### Agradecimentos
+## Agradecimentos
 - Aos pesquisadores e professores que deram seus depoimentos para a reportagem.
 - Ao professor **Fábio Castro Gouveia** pela contribuição no delineamento da análise e por esclarecer as limitações inerentes ao levantamento.
 
